@@ -22,9 +22,9 @@ Analyze and visualize sales data in Excel to extract meaningful business insight
    - Key insights and recommendations
 
 ## screenshots
-![store analysis dashboard]()
-![original data]()
-![pivot tables]()
+![store analysis dashboard](https://github.com/Bhargav-Barewar/Sales-Data-Analysis-Dashboard/blob/main/Assets/Dashboard.png)
+![original data](https://github.com/Bhargav-Barewar/Sales-Data-Analysis-Dashboard/blob/main/Assets/Screenshot2.png)
+![pivot tables](https://github.com/Bhargav-Barewar/Sales-Data-Analysis-Dashboard/blob/main/Assets/screenshot1.png)
 
 
 ## Key Insights
