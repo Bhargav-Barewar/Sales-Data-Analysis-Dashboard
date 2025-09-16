@@ -21,6 +21,12 @@ Analyze and visualize sales data in Excel to extract meaningful business insight
 4. **Reporting**
    - Key insights and recommendations
 
+## screenshots
+![store analysis dashboard]()
+![original data]()
+![pivot tables]()
+
+
 ## Key Insights
 
 - Festive/Ethnic wear drives high demand  
@@ -46,7 +52,5 @@ Analyze and visualize sales data in Excel to extract meaningful business insight
 - `Report.pdf` → Insights and recommendations  
 
 ## Tools
-
-- Microsoft Excel (Data cleaning, Pivot Tables, Charts, Dashboarding)
 
 - Microsoft Excel (Data cleaning, Pivot Tables, Charts, Dashboarding)
